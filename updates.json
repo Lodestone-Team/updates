@@ -1,19 +1,19 @@
 {
-  "version": "0.4.4",
-  "notes": "Lodestone v0.4.4",
-  "pub_date": "2023-05-22T04:59:26.497Z",
+  "version": "0.5.0-1",
+  "notes": "Automated release for v0.5.0-beta.1",
+  "pub_date": "2023-06-25T06:11:57.014Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeDRlYW9kdnEzWEVOeWJWcy9FTHZmWHd5VXpZZVFUMHpZS1A2ZmpWR1BCTEZjeGpLSXlzTlJHdk4wQUlzNmI5bHp1cDlTWnNudjI0TGdmWjZESk40NXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NzMwMzk3CWZpbGU6bG9kZXN0b25lXzAuNC40X2FtZDY0LkFwcEltYWdlLnRhci5negpIYUxSM2FFQytoQ2JTZkYyeUtScUVTWTdBWU1Gd3dSQTRPcTg0YThrSHVlTFRReG9paTNLNHdMYzFDUE1QNVBxNXVxL2pYQ0p6RVhXdml3K0NnZ2RDZz09Cg==",
-      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.4.4/lodestone_0.4.4_amd64.AppImage.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeHp0YmJuVDc5RzlVanl1SWJYRWFJdGNXWVlJY0ZsMmNtTjdXemM0ZnJSMTR2NTI0dXNHdWU5T1ptYmFEdHlQQ0hnQVFHdVduaDNVWlMzTnJ1V0VKU1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3NjcxMzkxCWZpbGU6bG9kZXN0b25lXzAuNS4wLTFfYW1kNjQuQXBwSW1hZ2UudGFyLmd6Cm9nZGxVbm50Y0RlYjVmYnIvK0FNYWNycW5jeEE4NENyNWN5MUoyQ0FScHhBazIyaWUwakI5Q0g1VGl6VW5lZnQvNllEMWwyWWw5QndLanRUQlNzQ0J3PT0K",
+      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.5.0-beta.1/lodestone_0.5.0-1_amd64.AppImage.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeHl1M0lnMG1TRkZUekhPQXBoZE5hSit5eEhtVnJ2VDRSSDBLS0VwMmRCZGVPNnZnUUcvNGU1Y3Zyd2NQNTlnYVlzOFZma245ejVZOEZHaWJZdVhLMkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NzMxNTU4CWZpbGU6TG9kZXN0b25lLmFwcC50YXIuZ3oKeUxwMmlOYWJGVVJ6WVAzWUNWbnRCMzdRZ0lwZXhXZnd3ZUFlZ25PRUViOWU0TlFKS3FWTkF4dU4yRkJJS1F2SjMycUx0TEJidk5xcWQ5aGdidlRrQnc9PQo=",
-      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.4.4/Lodestone_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeDF3TkNLdGNncThCaTVUNEIrdUlOcjdhdHRRd0lESUVhb25yNk85Vk16b0FJMHpaelpRQWQ1RWU1ZTdGKzkybUhDU1BGK3hZbDBtbm9NcDJsYjJvYXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3NjczMzA1CWZpbGU6TG9kZXN0b25lLmFwcC50YXIuZ3oKeVZMUFZjTkNmb0UzWmpicHZ0WUJjMjkvVXlGVXR3RUFhRW9oZkxOOUhmNE52YmtGTGYxaWRIOFgwRSthY3oydkZJdlVlZmJrZ25OeTNZKzFUV2ZwRHc9PQo=",
+      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.5.0-beta.1/Lodestone_x64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeHhDaEE0VnBYdHBMelJ0b0pQcmhRc2R1SjY2TmZtZk1zL1lmcmFkS3o5L2dRUEY0QjdtMW05OHpIaW8vTSsveVZIVjRRWWczNzgvVzFJT0oyWjJ4dGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NzMwNzU4CWZpbGU6TG9kZXN0b25lXzAuNC40X3g2NF9lbi1VUy5tc2kuemlwCjVGeml4RDU4ZlN5WXhvMDFjZ0xsY2Z2QzhzTjVCa2RpOVZZS255TmdmZ3BZYWVvRDFKNUx6SytSa2JMcGh2ZTR3OTZZQVh3TEd0VWhnL3JQSXJuNEF3PT0K",
-      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.4.4/Lodestone_0.4.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeDRoM1l4d2FZVW9YaHJwWGJMMTRnbFRTYk4rZnMvajJBbnBobEZ3V1BOS0w5V1VzeU9NbjdZUXlWdEUzSkswZ3p5MnZ0WW0yQnFoeERIQWtjL2JRVVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3NjczNTEwCWZpbGU6TG9kZXN0b25lXzAuNS4wLTFfeDY0LXNldHVwLm5zaXMuemlwCkhqa0pYN3JvalgxcDg4RjZ6Vk1OV2R3bUVFTS9TazFmQlhOWGp6TVlvL01iU2pJdEw5NmFqUmtyUWMvb2IrNFZ5UHNFajZ1T0U0T0ZoaENLdmF3U0NnPT0K",
+      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.5.0-beta.1/Lodestone_0.5.0-1_x64-setup.nsis.zip"
     }
   }
 }
