@@ -1,19 +1,19 @@
 {
-  "version": "0.4.4",
-  "notes": "Lodestone v0.4.4",
-  "pub_date": "2023-05-22T04:59:26.497Z",
+  "version": "0.5.0",
+  "notes": "New major version 0.5.0 brings you playit.gg integration, Docker Instance, and the extension system in Typescript",
+  "pub_date": "2024-06-18T02:31:11.196Z",
   "platforms": {
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeDRlYW9kdnEzWEVOeWJWcy9FTHZmWHd5VXpZZVFUMHpZS1A2ZmpWR1BCTEZjeGpLSXlzTlJHdk4wQUlzNmI5bHp1cDlTWnNudjI0TGdmWjZESk40NXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NzMwMzk3CWZpbGU6bG9kZXN0b25lXzAuNC40X2FtZDY0LkFwcEltYWdlLnRhci5negpIYUxSM2FFQytoQ2JTZkYyeUtScUVTWTdBWU1Gd3dSQTRPcTg0YThrSHVlTFRReG9paTNLNHdMYzFDUE1QNVBxNXVxL2pYQ0p6RVhXdml3K0NnZ2RDZz09Cg==",
-      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.4.4/lodestone_0.4.4_amd64.AppImage.tar.gz"
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeDdxU3J3TElsTG5IUXZyTHZMQlBRVmgrRDNzaDg4MC9UQWV3dTVsa2IxY1hYZml3TG1FWDdiNlFVa2lubzFhaXgza3FGSXlvVGRxeDhOTERSRDVvT0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4Njc3NTMwCWZpbGU6TG9kZXN0b25lLmFwcC50YXIuZ3oKeXp2OExtV0JveE5VNDdiS29rdmZWOHhsb1l2WWlnWlBSUzlxTlN3WU4wK3dDWkJWaU1MbEFxcGJNeU1hQjVKR3ovNVJEdEdOSXNoaGZkR3FMNUtoQ2c9PQo=",
+      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.5.0/Lodestone_aarch64.app.tar.gz"
     },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeHl1M0lnMG1TRkZUekhPQXBoZE5hSit5eEhtVnJ2VDRSSDBLS0VwMmRCZGVPNnZnUUcvNGU1Y3Zyd2NQNTlnYVlzOFZma245ejVZOEZHaWJZdVhLMkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NzMxNTU4CWZpbGU6TG9kZXN0b25lLmFwcC50YXIuZ3oKeUxwMmlOYWJGVVJ6WVAzWUNWbnRCMzdRZ0lwZXhXZnd3ZUFlZ25PRUViOWU0TlFKS3FWTkF4dU4yRkJJS1F2SjMycUx0TEJidk5xcWQ5aGdidlRrQnc9PQo=",
-      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.4.4/Lodestone_x64.app.tar.gz"
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeHpVeDZUbHJhc3lLZ1EycTRMN3BMODJiL3pHV0xWaEFveTNnZjZNV1d2WGhlS3RIcGFFcEUzVm5QZERMaVU4ZkxOTjZjUjBEYUoweVF2WWFMVG0wUWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4Njc3Njg4CWZpbGU6bG9kZXN0b25lXzAuNS4wX2FtZDY0LkFwcEltYWdlLnRhci5negplc3I1bTMyZHdoa0o1NzFLQ0RKc1ZHTVU3b3NxSGxVOEtoUkxTbk1UckU5MVp5Mk1MTlFwRlllZnhHWDI3aExvREZxdm8yVWdpYUdDSFBaMUs1Ym5DZz09Cg==",
+      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.5.0/lodestone_0.5.0_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeHhDaEE0VnBYdHBMelJ0b0pQcmhRc2R1SjY2TmZtZk1zL1lmcmFkS3o5L2dRUEY0QjdtMW05OHpIaW8vTSsveVZIVjRRWWczNzgvVzFJT0oyWjJ4dGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NzMwNzU4CWZpbGU6TG9kZXN0b25lXzAuNC40X3g2NF9lbi1VUy5tc2kuemlwCjVGeml4RDU4ZlN5WXhvMDFjZ0xsY2Z2QzhzTjVCa2RpOVZZS255TmdmZ3BZYWVvRDFKNUx6SytSa2JMcGh2ZTR3OTZZQVh3TEd0VWhnL3JQSXJuNEF3PT0K",
-      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.4.4/Lodestone_0.4.4_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUU2dSV3ZjS25VeDFFK1BmV09nZzFaZGdUNmRRN2tpQmJOaWFqQldjNGgwajgrbEcyUktTN2U1S09FRlRURHl6WFZwZWZlMzdXaTJrdVZJZUlPdzFQSG1RQXlDN1BjRmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE4Njc3ODY0CWZpbGU6TG9kZXN0b25lXzAuNS4wX3g2NF9lbi1VUy5tc2kuemlwCkpjaE92bGtNQWh4enJxUngyN0tSYTdPcnArWHF4aFpJOTQ2QncvdW1qMWVPMzNOWk1TL1IySE5JbkEyRHJjWkZuQTZoYVJzMFRKU1FLcWNnd3VjMURnPT0K",
+      "url": "https://github.com/Lodestone-Team/lodestone/releases/download/v0.5.0/Lodestone_0.5.0_x64_en-US.msi.zip"
     }
   }
 }
